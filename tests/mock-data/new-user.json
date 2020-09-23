@@ -1,0 +1,12 @@
+{
+  "email": "example@gmail.com",
+  "password": "password",
+  "username": "example",
+  "firstName": "test",
+  "lastName": "mctest",
+  "address": "testingStreet",
+  "typeOfUser": "1",
+  "profession": "tester",
+  "longitude": "50",
+  "latitude": "10"
+}

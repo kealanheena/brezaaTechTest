@@ -1,4 +1,5 @@
-# User API
+# BrezaaTechTest
+
 
 ## User Stories
 
@@ -87,4 +88,3 @@ $ npm test
 - DELETE Intergration Tests
   - DELETE /users/
   - should return 404 on PUT /users/
-# brezaaTechTest
